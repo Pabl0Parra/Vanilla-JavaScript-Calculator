@@ -1,8 +1,8 @@
-## **"# Vanilla-JavaScript-Calculator"**
+## **"Vanilla-JavaScript-Calculator"**
 
-## In this project I´m going to create a simple but modern calculator using ES6 sintax
+In this project I´m going to create a simple but modern calculator using ES6 sintax
 
-**_## Concepts Covered:_**
+### **_Concepts Covered:_**
 
     - How to use ES6 classes to organize code
     - How to sync JavaScript code with a UI
@@ -10,3 +10,9 @@
     - Flexbox
     - The best way to cleanly handle user input
     - How to debug complicated edge cases
+
+---
+
+Take a peek at the result:
+
+![ a simple calculator](./img/calculator.PNG "A calculator")
