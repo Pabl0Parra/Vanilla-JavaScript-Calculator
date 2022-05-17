@@ -10,3 +10,8 @@
     - Flexbox
     - The best way to cleanly handle user input
     - How to debug complicated edge cases
+
+---
+Take a peek at the result:
+
+![ a simple calculator](/img/calculator.png "A calculator")
