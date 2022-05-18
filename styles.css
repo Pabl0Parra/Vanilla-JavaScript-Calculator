@@ -60,8 +60,6 @@ body {
   padding: 10px;
   word-wrap: break-word;
   word-break: break-all;
-  border-top-left-radius: 49%;
-  border-top-right-radius: 2%;
 }
 
 .output .previous-operand {
